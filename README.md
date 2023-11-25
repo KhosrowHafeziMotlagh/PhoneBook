@@ -10,7 +10,7 @@ The program's functionality is divided into two key modules. The positioning mod
 For future development, it is recommended to focus on improving the graphical user interface and addressing the limitations of the database. By incorporating the recommended enhancements, the program will provide a more user-friendly experience and be able to handle larger dimensions and multiple users effectively. User feedback is greatly appreciated, as it helps shape the direction of the program's development. The recommendations provided will be considered to enhance the overall functionality and user experience of the project.
 The Phonebook program has been tested with PyCharm Community Version 2023 and Spyder IDE, ensuring compatibility with popular Python development environments. It follows open-source rules and is available for free on GitHub.
 The project can be found on GitHub at the following link:
-https://github.com/me50/KhosrowHafeziMotlagh/tree/cs50/problems/2023/x/project/Phonebook
+https://github.com/KhosrowHafeziMotlagh/PhoneBook
 
 To see the initial version of the project in action, you can refer to the following YouTube link:
 https://youtu.be/zKt0biz37-c
